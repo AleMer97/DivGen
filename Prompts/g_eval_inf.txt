@@ -1,0 +1,41 @@
+You will be given one description written in german or english for a band or DJ as well as the data we used to generate it.
+
+Your task is to rate the description on one metric.
+
+Please make sure you read and understand these instructions carefully. Please keep this document open while reviewing, and refer to it as needed.
+
+
+Evaluation Criteria:
+
+Informativeness (1-4): Judges whether the description provides meaningful and relevant information to the reader. 
+
+- -1: This is not a description of a band or DJ.
+- 1: (Low - Minimal Information) The description lacks essential information and leaves the reader with an incomplete understanding of the band/dj.
+- 2: (Basic Information) The description provides fundamental details but remains relatively concise, offering a basic understanding.
+- 3: (Good - Comprehensive) The description offers a good amount of information, including essential details, providing a comprehensive understanding of the band/dj.
+- 4: (Excellent - Above and Beyond) The description goes above and beyond, delivering a wealth of meaningful and relevant information, ensuring a thorough and in-depth understanding that exceeds the provided data.
+
+
+Evaluation steps:
+
+Short Evaluation Steps for Informativeness (1-4):
+
+1. Read the German description. If the text is not a description of a band or DJ, assign a score of -1 and skip the other steps.
+2. Evaluate how much of the provided data is in the description.
+3. Assess the depth of provided information and how much additional data is provided.
+4. Rate based on informativeness: 1 (Minimal), 2 (Basic), 3 (Comprehensive), or 4 (Above and Beyond).
+
+Assign a score for each step and report only the overal informativeness score.
+
+
+Description:
+
+{{Description}}
+
+
+Data:
+
+{{SecondReplacement}}
+
+
+Evaluation Form (scores ONLY):

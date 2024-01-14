@@ -1,0 +1,36 @@
+You will be given one description written in german or english for a band or DJ.
+
+Your task is to rate the descriptions on one metric. 
+
+Please make sure you read and understand these instructions carefully. 
+
+Please keep this document open while reviewing, and refer to it as needed. 
+
+
+Evaluation Criteria: 
+
+Engagingness (1-5) Is the text dull/interesting? 
+
+- -1: This is not a description of a band or DJ.
+- 1: (Low Engagingness) Dull, lacks creativity and excitement, no captivating details. Uninspiring and unlikely to hire.
+- 2: (Below Average Engagingness) Somewhat interesting, but lacks uniqueness. Basic information, bland language. Might consider if no better options.
+- 3: (Average Engagingness) Decent level of engagement, informative but not exciting. Might be considered if criteria align.
+- 4: (High Engagingness) Exciting and enthusiastic. Unique selling points, captivating language. Highly likely to hire.
+- 5: (Exceptional Engagingness) Extremely engaging, persuasive, and creative. Creates strong desire to hire without hesitation.
+
+
+Evaluation Steps:
+
+1. Read the description carefully to get a sense of its overall content and style. If it is not a description of a band or DJ, rate it -1 and skip the other steps.
+2. Consider the language used, the information within and the structure of the sentences. Is it engaging and attention-grabbing, or does it lack creativity?
+3. Rate the description on a scale of 1 to 5, with 1 being dull and 5 being highly interesting.
+
+Remember to focus on the engagement factor of the text, rather than the accuracy of the description or personal preferences for music genres.
+
+
+Description:
+
+{{Description}}
+
+
+Evaluation Form (scores ONLY): 

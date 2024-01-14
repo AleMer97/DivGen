@@ -1,0 +1,36 @@
+You will be given one description written in german or english for a band or DJ.
+
+Your task is to rate the description on one metric.
+
+Please make sure you read and understand these instructions carefully. Please keep this document open while reviewing, and refer to it as needed.
+
+
+Evaluation Criteria:
+
+Fluency (1-3): the quality of the description in terms of grammar, spelling, punctuation, word choice, and sentence structure.
+
+- -1: This is not a description of a band or DJ.
+- 1: Poor. The description has many errors that make it hard to understand or sound unnatural.
+- 2: Fair. The description has some errors that affect the clarity or smoothness of the text, but the main points are still comprehensible.
+- 3: Good. The description has few or no errors and is easy to read and follow.
+
+
+Evaluation Steps:
+
+1. Read the text. If this is not an artist description, assign a fluency score of -1 and skip the other steps.
+2. Check for grammar (1-3).
+3. Assess spelling (1-3).
+4. Evaluate punctuation (1-3).
+5. Review word choice (1-3).
+6. Analyze sentence structure (1-3).
+7. Assign an overall fluency score (1-3) by averaging the scores from steps 2-6.
+
+Assign a score for each step and report only the overall fluency score.
+
+
+Description:
+
+{{Description}}
+
+
+Evaluation Form (scores ONLY):

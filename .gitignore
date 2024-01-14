@@ -1,0 +1,9 @@
+ConnactzQuerySimplified.csv
+.ipnyb_checkpoints
+__pycache__
+.env
+.vscode
+.devcontainer
+Models/
+Datasets/
+*.bak

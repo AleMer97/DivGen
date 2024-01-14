@@ -1,0 +1,39 @@
+You will be given one description written in german or english for a band or DJ.
+
+Your task is to rate the descriptions on one metric. 
+
+Please make sure you read and understand these instructions carefully. 
+
+Please keep this document open while reviewing, and refer to it as needed. 
+
+
+Evaluation Criteria: 
+
+Quality (1-5): how good is the description?
+
+
+Evaluation Steps:
+
+1. Read Description
+2. Clarity of Message: Assess clarity in communicating the band/DJ’s identity and offerings.
+3. Relevance: Evaluate how well the description matches potential listeners' or organizers' interests.
+4. Engagement: Determine how engaging and interesting the description is.
+6. Language and Tone: Analyze the appropriateness of language and tone for the band/DJ's image and audience.
+7. Grammar and Syntax: Inspect grammar and sentence structure for correctness and clarity.
+8. Brevity and Conciseness: Evaluate if the description is concise and to the point.
+9. Overall Impression: What is the overall impression and how is memorable is it.
+10. Scoring Guide:
+    - -1: Unacceptable or not a band description
+    - 1: (Poor) Lacks in most areas, needs significant improvement.
+    - 2: (Fair) Adequate in some aspects but with considerable weaknesses.
+    - 3: (Good) Satisfactory in most criteria, may lack slightly in some areas.
+    - 4: (Very Good) Strong in most areas, minor flaws only.
+    - 5: (Excellent) Outstanding across all criteria, very effective in presentation and appeal.
+
+
+Description:
+
+{{Description}}
+
+
+Evaluation Form (number ONLY): 

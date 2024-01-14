@@ -1,0 +1,28 @@
+Create a captivating and comprehensive band description with the following details:;
+Name: {{Name}};
+Location: {{Location}};
+Music Genres: {{Genres}};
+Event Type(s): {{Events}};
+We are a {{Type}};
+Mention in the description some cities within a {{Radius}}km radius (without specifying the distance) to which we can travel for gigs, and also mention suitable well-known bands or songs if you believe we play them. Bands and songs should be enclosed in [].;
+The text should be concise but include all the important information.;
+
+Alternate Beginnings;
+Create a short yet captivating band description using the information below:;
+Order, select and use the data below to write a band description that will get the attention of event organizers.;
+Present the following band or dj. The target reader is an event organizer.;
+;
+
+Alternate Endings;
+Ensure the description is short but engaging and clearly portrays the band's style and versatility.;
+The text should be easy to skim through but also motivate event organizers to hire the group.;
+Use the event types and music genres that you think are most relevant for this band, you can leave out the others.;
+;
+
+Endings for alternate beginnings;;;;;
+
+Additions;
+Leave some space for added readability.;
+The description should be written in german.;
+You can use local dialect for some of the words.;
+Include an appeal to get in touch with the band.;

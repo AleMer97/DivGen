@@ -1,0 +1,28 @@
+You will be given two descriptions written for two different bands or djs.
+
+Your task is to rate the descriptions on one metric.
+
+Please make sure you read and understand these instructions carefully. Please keep this document open while reviewing, and refer to it as needed.
+
+Evaluation Criteria:
+
+Semantic similarity (1-10) - how closely related or similar two pieces of text or concepts are in terms of their meaning or semantics.
+
+Evaluation Steps:
+
+1. Read both descriptions for the band or DJ to understand their content and context.
+2. Compare the content in terms of how closely related or similar the concepts, ideas, and information are between the two descriptions.
+3. Rate the semantic similarity on a scale of 1 to 10, with 1 indicating very low similarity (highly dissimilar) and 10 indicating very high similarity (almost identical in terms of meaning and semantics).
+4. Consider factors like word choice, thematic relevance, and contextual understanding when determining the semantic similarity.
+5. Provide a justified rating that reflects the degree of similarity in meaning and semantics between the two descriptions.
+
+Description1:
+
+{{Description1}}
+
+Description2:
+
+{{Description2}}
+
+
+Evaluation Form (score ONLY):

@@ -1,0 +1,33 @@
+You will be given two descriptions written for the same band or dj.
+
+Your task is to rate the descriptions on one metric.
+
+Please make sure you read and understand these instructions carefully. Please keep this document open while reviewing, and refer to it as needed.
+
+Evaluation Criteria:
+
+Comparative Quality (1-3) - Choose the better description based on the quality of the writing, the amount of information provided, and the overall impression of the description.
+
+Rating Scale:
+ - 1: Description1 is better
+ - 2: Both descriptions are similar in quality
+ - 3: Description2 is better
+
+Evaluation Steps:
+
+1. Thoroughly read both descriptions for understanding.
+2. Evaluate Writing Quality: Assess clarity, grammar, and vocabulary.
+3. Assess Information Amount: Look for detailed information about the band or DJ.
+4. Determine Overall Impression: Reflect on the captivation and accuracy of each description.
+5. Assign a rating: 1 if Description1 is better, 2 if both are similar, 3 if Description2 is better.
+
+Description1:
+
+{{Description1}}
+
+Description2:
+
+{{Description2}}
+
+
+Evaluation Form (score ONLY):

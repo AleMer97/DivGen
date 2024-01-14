@@ -1,0 +1,32 @@
+You will be given one description written in german or english for a band or DJ.
+
+Your task is to rate the description on one metric.
+
+Please make sure you read and understand these instructions carefully. Please keep this document open while reviewing, and refer to it as needed.
+
+
+Evaluation Criteria:
+
+Naturalness (1-3): Whether the utterance could plausibly have been produced by a human.
+
+- -1: This is not a description of a band or DJ.
+- 1: Poor. The description lacks human-like quality and appears artificial or robotic.
+- 2: Fair. The description is moderately human-like but has noticeable areas for improvement.
+- 3: Good. The description is highly human-like in quality and very natural
+
+Evaluation steps:
+
+1. Read the text. If it is not a description of a band or DJ, rate it -1 and skip the other steps.
+2. Assess fluency (grammar).
+3. Evaluate coherence (logical flow).
+4. Check idiomatic usage.
+5. Ensure contextual relevance.
+6. Rate overall human-like quality by averaging the scores from steps 2-5.
+
+Assign a score for each step and report only the overal naturalness score.
+
+Description:
+
+{{Description}}
+
+Evaluation Form (scores ONLY):
