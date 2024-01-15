@@ -1,0 +1,11 @@
+f_name,f_key,f_description,f_distance,f_locality,f_locality_lat,f_locality_lon,f_casts,f_genres,f_eventtypes,Quality,Uniqueness,description_en,triples_input,region
+Neon Rhapsody,neonrhapsody,,150,Deggendorf,48.842839,12.9662695,dj,"brassmusic,folk","prom,cityfestival,church,openair,baptism",,,,,Bayern
+Velvet Rebellion,velvetrebellion,,600,Altenstadt,49.708441,12.164798,"dj,brassband",folkmusic,"church,club,wedding,baptism,clubfestival",,,,,Bayern
+Quantum Groove,quantum,,100,München,48.1611039,11.5765337,duet,"party,breakbeat,loungemusic","christmasparty,cityfestival",,,,,Bayern
+Echoes of Jupiter,echoes,,550,Hallstadt,49.9279432,10.8749288,"band,bigband","rockabilly,lightmusic,alternative","prom,summerparty,birthday",,,,,Bayern
+Sapphire Haze,sapphire,,750,Limburg an der Lahn,50.3841339,8.0679509,brassband,"ska,dance,lightmusic,blues",summerparty,,,,,Hessen
+Midnight Serenade,midnght,,1400,Steinach,48.9482603,12.5731233,dj,funk,"christmasparty,prom,club,clubfestival,openair",,,,,Bayern
+Cosmic Cadence,cosmic,,150,Seewalchen am Attersee,47.9670793,13.5911121,brassband,"alternative,jazz,party","church,club,weddingparty,cityfestival,christmasparty",,,,,Bezirk Vöcklabruck
+Electric Mirage,electric,,1300,Recklinghausen,51.6381524,7.1816476,entertainer,"comedy,dancehall,rnb","clubfestival,funeral,weddingeve,concert,birthday",,,,,Nordrhein-Westfalen
+Arctic Anthems,arctic,,1150,Straubing,48.86705,12.56005,brassband,"fusion,metal,party",birthday,,,,,Bayern
+Twilight Resonance,twilight,,1200,Hardthausen,49.2412526,9.3610194,dj,"folk,rocknroll,party,punk","fairground,gala,cityfestival,carneval",,,,,Baden-Württemberg
